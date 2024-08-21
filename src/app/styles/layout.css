@@ -1,0 +1,38 @@
+.layout {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.developer {
+  grid-column: span 2;
+}
+
+.contact {
+  grid-row: span 2;
+}
+
+.projects {
+  grid-column: span 2;
+}
+
+@media screen and (max-width: 1200px){
+  .skills {
+    grid-column: span 2;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .layout {
+    place-content: unset;
+  }
+
+  .cv {
+    grid-row: span 2;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .blurred {
+    grid-column: 1;
+  }
+}
