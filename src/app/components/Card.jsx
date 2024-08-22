@@ -1,4 +1,4 @@
-import '../container.css'
+import '../styles/container.css'
 
 const Card = ({ styles = '', children }) => {
   return(
