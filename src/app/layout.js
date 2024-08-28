@@ -11,7 +11,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="es">
-      <body className={`${poppins.className} p-6 h-screen w-screen`}>
+      <body className={`${poppins.className} py-6 h-screen w-screen`}>
         <div className="area bg-gradient-to-r from-gray-700 to-black fixed w-full h-full inset-0 -z-40">
           <ul className="circles">
             <li></li>

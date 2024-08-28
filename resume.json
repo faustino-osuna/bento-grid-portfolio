@@ -1,0 +1,136 @@
+{
+  "basics": {
+    "name": "Faustino Osuna",
+    "label": "Desarrollador Web",
+    "image": "https://avatars.githubusercontent.com/u/144746003?v=4",
+    "email": "faustino.osunarivera@gmail.com",
+    "phone": "(912) 555-4321",
+    "url": "https://johndoe.com",
+    "summary": "Ingeniero en Desarrollo de Software con experiencia laboral como programador, especializado en programación web, disfruto resolver problemas y enfrentar nuevos desafíos.",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "faustino-osuna",
+        "url": "https://github.com/faustino-osuna"
+      },
+      {
+        "network": "Linkedin",
+        "username": "luis faustino osuna rivera",
+        "url": "https://linkedin.com/in/luis-faustino-osuna-rivera-791606240"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company",
+      "position": "President",
+      "url": "https://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Description…",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Punto de Venta",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "punto de venta para varias sucursales en el cual consume datos desde un api de SAP, guardando datos de clientes, facturación y control de múltiples ventas, para el cual se esta utilizando las tecnologias de Laravel, Vue 3 Composition Api y SAP Service Layer Api",
+      "highlights": ["Won award at AIHacks 2016"],
+      "url": "https://project.com/",
+      "image": "./images/punto-de-venta.png",
+      "technologies": ["Laravel", "PHP", "VueJS"]
+    },
+    {
+        "name": "Sistemas de Alarmas",
+        "startDate": "2019-01-01",
+        "endDate": "2021-01-01",
+        "description": "un sistema de alarmas, en el cual la necesidad de la empresa era desarrollar un sistema web el cual le permitiera recibir una notificación con sonido tipo alarma al momento de recibir un correo, para el cual utilicé las tecnologías de NodeJS y React.",
+        "highlights": ["Won award at AIHacks 2016"],
+        "url": "https://project.com/",
+        "image": "./images/alarmas.png",
+        "technologies": ["NodeJS", "React", "JavaScript"]
+      }
+  ]
+}
