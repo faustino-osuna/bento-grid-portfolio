@@ -15,7 +15,7 @@
   grid-column: span 2;
 }
 
-@media screen and (max-width: 1200px){
+@media screen and (max-width: 1280px){
   .skills {
     grid-column: span 2;
   }
